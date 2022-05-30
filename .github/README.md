@@ -1,6 +1,6 @@
 # Cryptalk
 
-#### Written in 1998.
+#### Written in 2006 April.
 
 [Original package](https://defacto2.net/f/ae21d63)
 
