@@ -24,3 +24,5 @@ Translated by Google
 Prog written for educational purposes. 
 Comments written like this so that someone who doesn't have a clue about assembly language can understand it.
 If you are a bit familiar with the subject, some may even laugh ;)
+
+![image](https://user-images.githubusercontent.com/513842/170897534-77faa748-79b2-4705-9ca7-a59f0a130c10.png)
