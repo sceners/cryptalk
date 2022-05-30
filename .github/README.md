@@ -21,6 +21,6 @@
 
 Translated by Google
 
-; Prog written for educational purposes. Comments written like this
-; so that someone who doesn't have a clue about assembly language can understand it.
-; If you are a bit familiar with the subject, some may even laugh;)
+Prog written for educational purposes. 
+Comments written like this so that someone who doesn't have a clue about assembly language can understand it.
+If you are a bit familiar with the subject, some may even laugh ;)
